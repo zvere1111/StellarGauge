@@ -109,15 +109,15 @@ Basescan deployment and verification links:
 
 ## License
 
-MIT License
+BSD 2-Clause License
 
 ---
 
 ## Author
 
-GitHub: https://github.com/your-handle  
-Public contact (email): your-name@proton.me  
-Public contact (X): https://x.com/your-handle  
+GitHub: https://github.com/zvere1111  
+Public contact (email): 09clown_regress@icloud.com  
+Public contact (X): https://x.com/mealyxbird9  
 
 ---
 
@@ -130,24 +130,9 @@ chainId (decimal): 84532
 Explorer: https://sepolia.basescan.org  
 
 Contract #1 address:  
-your_adress  
+0x7d7ae89dcfdd120595eeaaa380cbb578f6006cd9  
 
 Deployment and verification:
-- https://sepolia.basescan.org/address/your_adress  
-- https://sepolia.basescan.org/your_adress/0#code  
-
-Contract #2 address (optional):  
-your_adress  
-
-Deployment and verification:
-- https://sepolia.basescan.org/address/your_adress  
-- https://sepolia.basescan.org/your_adress/0#code  
-
-Contract #3 address (optional):  
-your_adress  
-
-Deployment and verification:
-- https://sepolia.basescan.org/address/your_adress  
-- https://sepolia.basescan.org/your_adress/0#code  
+- https://sepolia.basescan.org/address/0x7d7ae89dcfdd120595eeaaa380cbb578f6006cd9    
 
 These testnet deployments serve as a controlled environment for validating Base account abstraction flows, RPC reliability, and read-only onchain operations before mainnet usage.
